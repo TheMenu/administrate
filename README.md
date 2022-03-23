@@ -1,3 +1,12 @@
+# ⚠️ DEPRECATED
+
+This is an old fork of Thoughtbot's [Administrate](https://github.com/thoughtbot/administrate/) and it should not be installed on any new project.
+
+Projects that still depends on it:
+* **Lunchr banking** https://github.com/TheMenu/lunchr-banking/blob/master/Gemfile#L101
+
+---
+
 # Administrate
 
 [![CircleCI](https://img.shields.io/circleci/project/github/thoughtbot/administrate.svg)](https://circleci.com/gh/thoughtbot/administrate/tree/master)
